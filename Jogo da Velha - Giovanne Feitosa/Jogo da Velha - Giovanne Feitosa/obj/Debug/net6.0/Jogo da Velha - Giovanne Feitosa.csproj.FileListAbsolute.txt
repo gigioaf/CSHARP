@@ -1,0 +1,15 @@
+C:\Users\Home\OneDrive\Área de Trabalho\Jogo da Velha - Giovanne Feitosa\Jogo da Velha - Giovanne Feitosa\bin\Debug\net6.0\Jogo da Velha - Giovanne Feitosa.exe
+C:\Users\Home\OneDrive\Área de Trabalho\Jogo da Velha - Giovanne Feitosa\Jogo da Velha - Giovanne Feitosa\bin\Debug\net6.0\Jogo da Velha - Giovanne Feitosa.deps.json
+C:\Users\Home\OneDrive\Área de Trabalho\Jogo da Velha - Giovanne Feitosa\Jogo da Velha - Giovanne Feitosa\bin\Debug\net6.0\Jogo da Velha - Giovanne Feitosa.runtimeconfig.json
+C:\Users\Home\OneDrive\Área de Trabalho\Jogo da Velha - Giovanne Feitosa\Jogo da Velha - Giovanne Feitosa\bin\Debug\net6.0\Jogo da Velha - Giovanne Feitosa.dll
+C:\Users\Home\OneDrive\Área de Trabalho\Jogo da Velha - Giovanne Feitosa\Jogo da Velha - Giovanne Feitosa\bin\Debug\net6.0\Jogo da Velha - Giovanne Feitosa.pdb
+C:\Users\Home\OneDrive\Área de Trabalho\Jogo da Velha - Giovanne Feitosa\Jogo da Velha - Giovanne Feitosa\obj\Debug\net6.0\Jogo da Velha - Giovanne Feitosa.csproj.AssemblyReference.cache
+C:\Users\Home\OneDrive\Área de Trabalho\Jogo da Velha - Giovanne Feitosa\Jogo da Velha - Giovanne Feitosa\obj\Debug\net6.0\Jogo da Velha - Giovanne Feitosa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\OneDrive\Área de Trabalho\Jogo da Velha - Giovanne Feitosa\Jogo da Velha - Giovanne Feitosa\obj\Debug\net6.0\Jogo da Velha - Giovanne Feitosa.AssemblyInfoInputs.cache
+C:\Users\Home\OneDrive\Área de Trabalho\Jogo da Velha - Giovanne Feitosa\Jogo da Velha - Giovanne Feitosa\obj\Debug\net6.0\Jogo da Velha - Giovanne Feitosa.AssemblyInfo.cs
+C:\Users\Home\OneDrive\Área de Trabalho\Jogo da Velha - Giovanne Feitosa\Jogo da Velha - Giovanne Feitosa\obj\Debug\net6.0\Jogo da Velha - Giovanne Feitosa.csproj.CoreCompileInputs.cache
+C:\Users\Home\OneDrive\Área de Trabalho\Jogo da Velha - Giovanne Feitosa\Jogo da Velha - Giovanne Feitosa\obj\Debug\net6.0\Jogo da Velha - Giovanne Feitosa.dll
+C:\Users\Home\OneDrive\Área de Trabalho\Jogo da Velha - Giovanne Feitosa\Jogo da Velha - Giovanne Feitosa\obj\Debug\net6.0\refint\Jogo da Velha - Giovanne Feitosa.dll
+C:\Users\Home\OneDrive\Área de Trabalho\Jogo da Velha - Giovanne Feitosa\Jogo da Velha - Giovanne Feitosa\obj\Debug\net6.0\Jogo da Velha - Giovanne Feitosa.pdb
+C:\Users\Home\OneDrive\Área de Trabalho\Jogo da Velha - Giovanne Feitosa\Jogo da Velha - Giovanne Feitosa\obj\Debug\net6.0\Jogo da Velha - Giovanne Feitosa.genruntimeconfig.cache
+C:\Users\Home\OneDrive\Área de Trabalho\Jogo da Velha - Giovanne Feitosa\Jogo da Velha - Giovanne Feitosa\obj\Debug\net6.0\ref\Jogo da Velha - Giovanne Feitosa.dll
