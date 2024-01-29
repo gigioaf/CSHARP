@@ -1,0 +1,15 @@
+D:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 12 (09.11.23)\Aula 12\Aula 12\bin\Debug\net6.0\Aula 12.exe
+D:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 12 (09.11.23)\Aula 12\Aula 12\bin\Debug\net6.0\Aula 12.deps.json
+D:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 12 (09.11.23)\Aula 12\Aula 12\bin\Debug\net6.0\Aula 12.runtimeconfig.json
+D:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 12 (09.11.23)\Aula 12\Aula 12\bin\Debug\net6.0\Aula 12.dll
+D:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 12 (09.11.23)\Aula 12\Aula 12\bin\Debug\net6.0\ref\Aula 12.dll
+D:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 12 (09.11.23)\Aula 12\Aula 12\bin\Debug\net6.0\Aula 12.pdb
+D:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 12 (09.11.23)\Aula 12\Aula 12\obj\Debug\net6.0\Aula 12.csproj.AssemblyReference.cache
+D:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 12 (09.11.23)\Aula 12\Aula 12\obj\Debug\net6.0\Aula 12.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 12 (09.11.23)\Aula 12\Aula 12\obj\Debug\net6.0\Aula 12.AssemblyInfoInputs.cache
+D:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 12 (09.11.23)\Aula 12\Aula 12\obj\Debug\net6.0\Aula 12.AssemblyInfo.cs
+D:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 12 (09.11.23)\Aula 12\Aula 12\obj\Debug\net6.0\Aula 12.csproj.CoreCompileInputs.cache
+D:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 12 (09.11.23)\Aula 12\Aula 12\obj\Debug\net6.0\Aula 12.dll
+D:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 12 (09.11.23)\Aula 12\Aula 12\obj\Debug\net6.0\ref\Aula 12.dll
+D:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 12 (09.11.23)\Aula 12\Aula 12\obj\Debug\net6.0\Aula 12.pdb
+D:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 12 (09.11.23)\Aula 12\Aula 12\obj\Debug\net6.0\Aula 12.genruntimeconfig.cache

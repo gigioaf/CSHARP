@@ -1,0 +1,15 @@
+E:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Jogo da Velha\Jogo da Velha - 223671\Jogo da Velha - 223671\bin\Debug\net6.0\Jogo da Velha - 223671.exe
+E:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Jogo da Velha\Jogo da Velha - 223671\Jogo da Velha - 223671\bin\Debug\net6.0\Jogo da Velha - 223671.deps.json
+E:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Jogo da Velha\Jogo da Velha - 223671\Jogo da Velha - 223671\bin\Debug\net6.0\Jogo da Velha - 223671.runtimeconfig.json
+E:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Jogo da Velha\Jogo da Velha - 223671\Jogo da Velha - 223671\bin\Debug\net6.0\Jogo da Velha - 223671.dll
+E:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Jogo da Velha\Jogo da Velha - 223671\Jogo da Velha - 223671\bin\Debug\net6.0\Jogo da Velha - 223671.pdb
+E:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Jogo da Velha\Jogo da Velha - 223671\Jogo da Velha - 223671\obj\Debug\net6.0\Jogo da Velha - 223671.csproj.AssemblyReference.cache
+E:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Jogo da Velha\Jogo da Velha - 223671\Jogo da Velha - 223671\obj\Debug\net6.0\Jogo da Velha - 223671.GeneratedMSBuildEditorConfig.editorconfig
+E:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Jogo da Velha\Jogo da Velha - 223671\Jogo da Velha - 223671\obj\Debug\net6.0\Jogo da Velha - 223671.AssemblyInfoInputs.cache
+E:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Jogo da Velha\Jogo da Velha - 223671\Jogo da Velha - 223671\obj\Debug\net6.0\Jogo da Velha - 223671.AssemblyInfo.cs
+E:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Jogo da Velha\Jogo da Velha - 223671\Jogo da Velha - 223671\obj\Debug\net6.0\Jogo da Velha - 223671.csproj.CoreCompileInputs.cache
+E:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Jogo da Velha\Jogo da Velha - 223671\Jogo da Velha - 223671\obj\Debug\net6.0\Jogo da Velha - 223671.dll
+E:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Jogo da Velha\Jogo da Velha - 223671\Jogo da Velha - 223671\obj\Debug\net6.0\refint\Jogo da Velha - 223671.dll
+E:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Jogo da Velha\Jogo da Velha - 223671\Jogo da Velha - 223671\obj\Debug\net6.0\Jogo da Velha - 223671.pdb
+E:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Jogo da Velha\Jogo da Velha - 223671\Jogo da Velha - 223671\obj\Debug\net6.0\Jogo da Velha - 223671.genruntimeconfig.cache
+E:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Jogo da Velha\Jogo da Velha - 223671\Jogo da Velha - 223671\obj\Debug\net6.0\ref\Jogo da Velha - 223671.dll

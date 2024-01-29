@@ -1,0 +1,15 @@
+E:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 08 (05-10-2023)\Tp-01 (2ºBI)\Tp-01 (2ºBI)\bin\Debug\net6.0\Tp-01 (2ºBI).exe
+E:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 08 (05-10-2023)\Tp-01 (2ºBI)\Tp-01 (2ºBI)\bin\Debug\net6.0\Tp-01 (2ºBI).deps.json
+E:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 08 (05-10-2023)\Tp-01 (2ºBI)\Tp-01 (2ºBI)\bin\Debug\net6.0\Tp-01 (2ºBI).runtimeconfig.json
+E:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 08 (05-10-2023)\Tp-01 (2ºBI)\Tp-01 (2ºBI)\bin\Debug\net6.0\Tp-01 (2ºBI).dll
+E:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 08 (05-10-2023)\Tp-01 (2ºBI)\Tp-01 (2ºBI)\bin\Debug\net6.0\Tp-01 (2ºBI).pdb
+E:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 08 (05-10-2023)\Tp-01 (2ºBI)\Tp-01 (2ºBI)\obj\Debug\net6.0\Tp-01 (2ºBI).csproj.AssemblyReference.cache
+E:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 08 (05-10-2023)\Tp-01 (2ºBI)\Tp-01 (2ºBI)\obj\Debug\net6.0\Tp-01 (2ºBI).GeneratedMSBuildEditorConfig.editorconfig
+E:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 08 (05-10-2023)\Tp-01 (2ºBI)\Tp-01 (2ºBI)\obj\Debug\net6.0\Tp-01 (2ºBI).AssemblyInfoInputs.cache
+E:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 08 (05-10-2023)\Tp-01 (2ºBI)\Tp-01 (2ºBI)\obj\Debug\net6.0\Tp-01 (2ºBI).AssemblyInfo.cs
+E:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 08 (05-10-2023)\Tp-01 (2ºBI)\Tp-01 (2ºBI)\obj\Debug\net6.0\Tp-01 (2ºBI).csproj.CoreCompileInputs.cache
+E:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 08 (05-10-2023)\Tp-01 (2ºBI)\Tp-01 (2ºBI)\obj\Debug\net6.0\Tp-01 (2ºBI).dll
+E:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 08 (05-10-2023)\Tp-01 (2ºBI)\Tp-01 (2ºBI)\obj\Debug\net6.0\refint\Tp-01 (2ºBI).dll
+E:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 08 (05-10-2023)\Tp-01 (2ºBI)\Tp-01 (2ºBI)\obj\Debug\net6.0\Tp-01 (2ºBI).pdb
+E:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 08 (05-10-2023)\Tp-01 (2ºBI)\Tp-01 (2ºBI)\obj\Debug\net6.0\Tp-01 (2ºBI).genruntimeconfig.cache
+E:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 08 (05-10-2023)\Tp-01 (2ºBI)\Tp-01 (2ºBI)\obj\Debug\net6.0\ref\Tp-01 (2ºBI).dll

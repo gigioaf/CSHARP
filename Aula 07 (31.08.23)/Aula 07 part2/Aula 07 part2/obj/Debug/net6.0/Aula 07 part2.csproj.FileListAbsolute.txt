@@ -1,0 +1,15 @@
+D:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 07 (31.08.23)\Aula 07 part2\Aula 07 part2\bin\Debug\net6.0\Aula 07 part2.exe
+D:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 07 (31.08.23)\Aula 07 part2\Aula 07 part2\bin\Debug\net6.0\Aula 07 part2.deps.json
+D:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 07 (31.08.23)\Aula 07 part2\Aula 07 part2\bin\Debug\net6.0\Aula 07 part2.runtimeconfig.json
+D:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 07 (31.08.23)\Aula 07 part2\Aula 07 part2\bin\Debug\net6.0\Aula 07 part2.dll
+D:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 07 (31.08.23)\Aula 07 part2\Aula 07 part2\bin\Debug\net6.0\ref\Aula 07 part2.dll
+D:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 07 (31.08.23)\Aula 07 part2\Aula 07 part2\bin\Debug\net6.0\Aula 07 part2.pdb
+D:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 07 (31.08.23)\Aula 07 part2\Aula 07 part2\obj\Debug\net6.0\Aula 07 part2.csproj.AssemblyReference.cache
+D:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 07 (31.08.23)\Aula 07 part2\Aula 07 part2\obj\Debug\net6.0\Aula 07 part2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 07 (31.08.23)\Aula 07 part2\Aula 07 part2\obj\Debug\net6.0\Aula 07 part2.AssemblyInfoInputs.cache
+D:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 07 (31.08.23)\Aula 07 part2\Aula 07 part2\obj\Debug\net6.0\Aula 07 part2.AssemblyInfo.cs
+D:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 07 (31.08.23)\Aula 07 part2\Aula 07 part2\obj\Debug\net6.0\Aula 07 part2.csproj.CoreCompileInputs.cache
+D:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 07 (31.08.23)\Aula 07 part2\Aula 07 part2\obj\Debug\net6.0\Aula 07 part2.dll
+D:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 07 (31.08.23)\Aula 07 part2\Aula 07 part2\obj\Debug\net6.0\ref\Aula 07 part2.dll
+D:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 07 (31.08.23)\Aula 07 part2\Aula 07 part2\obj\Debug\net6.0\Aula 07 part2.pdb
+D:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 07 (31.08.23)\Aula 07 part2\Aula 07 part2\obj\Debug\net6.0\Aula 07 part2.genruntimeconfig.cache

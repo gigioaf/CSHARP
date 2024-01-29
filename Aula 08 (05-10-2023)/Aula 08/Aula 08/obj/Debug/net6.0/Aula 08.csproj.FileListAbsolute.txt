@@ -1,0 +1,15 @@
+D:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 08 (05-10-2023)\Aula 08\Aula 08\bin\Debug\net6.0\Aula 08.exe
+D:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 08 (05-10-2023)\Aula 08\Aula 08\bin\Debug\net6.0\Aula 08.deps.json
+D:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 08 (05-10-2023)\Aula 08\Aula 08\bin\Debug\net6.0\Aula 08.runtimeconfig.json
+D:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 08 (05-10-2023)\Aula 08\Aula 08\bin\Debug\net6.0\Aula 08.dll
+D:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 08 (05-10-2023)\Aula 08\Aula 08\bin\Debug\net6.0\ref\Aula 08.dll
+D:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 08 (05-10-2023)\Aula 08\Aula 08\bin\Debug\net6.0\Aula 08.pdb
+D:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 08 (05-10-2023)\Aula 08\Aula 08\obj\Debug\net6.0\Aula 08.csproj.AssemblyReference.cache
+D:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 08 (05-10-2023)\Aula 08\Aula 08\obj\Debug\net6.0\Aula 08.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 08 (05-10-2023)\Aula 08\Aula 08\obj\Debug\net6.0\Aula 08.AssemblyInfoInputs.cache
+D:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 08 (05-10-2023)\Aula 08\Aula 08\obj\Debug\net6.0\Aula 08.AssemblyInfo.cs
+D:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 08 (05-10-2023)\Aula 08\Aula 08\obj\Debug\net6.0\Aula 08.csproj.CoreCompileInputs.cache
+D:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 08 (05-10-2023)\Aula 08\Aula 08\obj\Debug\net6.0\Aula 08.dll
+D:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 08 (05-10-2023)\Aula 08\Aula 08\obj\Debug\net6.0\ref\Aula 08.dll
+D:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 08 (05-10-2023)\Aula 08\Aula 08\obj\Debug\net6.0\Aula 08.pdb
+D:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 08 (05-10-2023)\Aula 08\Aula 08\obj\Debug\net6.0\Aula 08.genruntimeconfig.cache

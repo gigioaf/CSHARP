@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>Tp06__Polimorfismo___Sobrecarga_</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="D:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 12 %2809.11.23%29\Tp06 %28Polimorfismo - Sobrecarga%29\223671.pdf" Link="223671.pdf" />
+  </ItemGroup>
+
+</Project>

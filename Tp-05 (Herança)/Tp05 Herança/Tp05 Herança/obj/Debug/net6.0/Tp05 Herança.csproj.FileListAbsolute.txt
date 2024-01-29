@@ -1,0 +1,15 @@
+E:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Tp-05 (Herança)\Tp05 Herança\Tp05 Herança\bin\Debug\net6.0\Tp05 Herança.exe
+E:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Tp-05 (Herança)\Tp05 Herança\Tp05 Herança\bin\Debug\net6.0\Tp05 Herança.deps.json
+E:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Tp-05 (Herança)\Tp05 Herança\Tp05 Herança\bin\Debug\net6.0\Tp05 Herança.runtimeconfig.json
+E:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Tp-05 (Herança)\Tp05 Herança\Tp05 Herança\bin\Debug\net6.0\Tp05 Herança.dll
+E:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Tp-05 (Herança)\Tp05 Herança\Tp05 Herança\bin\Debug\net6.0\Tp05 Herança.pdb
+E:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Tp-05 (Herança)\Tp05 Herança\Tp05 Herança\obj\Debug\net6.0\Tp05 Herança.csproj.AssemblyReference.cache
+E:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Tp-05 (Herança)\Tp05 Herança\Tp05 Herança\obj\Debug\net6.0\Tp05 Herança.GeneratedMSBuildEditorConfig.editorconfig
+E:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Tp-05 (Herança)\Tp05 Herança\Tp05 Herança\obj\Debug\net6.0\Tp05 Herança.AssemblyInfoInputs.cache
+E:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Tp-05 (Herança)\Tp05 Herança\Tp05 Herança\obj\Debug\net6.0\Tp05 Herança.AssemblyInfo.cs
+E:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Tp-05 (Herança)\Tp05 Herança\Tp05 Herança\obj\Debug\net6.0\Tp05 Herança.csproj.CoreCompileInputs.cache
+E:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Tp-05 (Herança)\Tp05 Herança\Tp05 Herança\obj\Debug\net6.0\Tp05 Herança.dll
+E:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Tp-05 (Herança)\Tp05 Herança\Tp05 Herança\obj\Debug\net6.0\refint\Tp05 Herança.dll
+E:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Tp-05 (Herança)\Tp05 Herança\Tp05 Herança\obj\Debug\net6.0\Tp05 Herança.pdb
+E:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Tp-05 (Herança)\Tp05 Herança\Tp05 Herança\obj\Debug\net6.0\Tp05 Herança.genruntimeconfig.cache
+E:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Tp-05 (Herança)\Tp05 Herança\Tp05 Herança\obj\Debug\net6.0\ref\Tp05 Herança.dll

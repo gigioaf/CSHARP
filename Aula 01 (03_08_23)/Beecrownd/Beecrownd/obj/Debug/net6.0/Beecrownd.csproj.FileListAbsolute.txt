@@ -1,0 +1,30 @@
+C:\Users\Home\OneDrive\Área de Trabalho\Beecrownd\Beecrownd\bin\Debug\net6.0\Beecrownd.exe
+C:\Users\Home\OneDrive\Área de Trabalho\Beecrownd\Beecrownd\bin\Debug\net6.0\Beecrownd.deps.json
+C:\Users\Home\OneDrive\Área de Trabalho\Beecrownd\Beecrownd\bin\Debug\net6.0\Beecrownd.runtimeconfig.json
+C:\Users\Home\OneDrive\Área de Trabalho\Beecrownd\Beecrownd\bin\Debug\net6.0\Beecrownd.dll
+C:\Users\Home\OneDrive\Área de Trabalho\Beecrownd\Beecrownd\bin\Debug\net6.0\Beecrownd.pdb
+C:\Users\Home\OneDrive\Área de Trabalho\Beecrownd\Beecrownd\obj\Debug\net6.0\Beecrownd.csproj.AssemblyReference.cache
+C:\Users\Home\OneDrive\Área de Trabalho\Beecrownd\Beecrownd\obj\Debug\net6.0\Beecrownd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\OneDrive\Área de Trabalho\Beecrownd\Beecrownd\obj\Debug\net6.0\Beecrownd.AssemblyInfoInputs.cache
+C:\Users\Home\OneDrive\Área de Trabalho\Beecrownd\Beecrownd\obj\Debug\net6.0\Beecrownd.AssemblyInfo.cs
+C:\Users\Home\OneDrive\Área de Trabalho\Beecrownd\Beecrownd\obj\Debug\net6.0\Beecrownd.csproj.CoreCompileInputs.cache
+C:\Users\Home\OneDrive\Área de Trabalho\Beecrownd\Beecrownd\obj\Debug\net6.0\Beecrownd.dll
+C:\Users\Home\OneDrive\Área de Trabalho\Beecrownd\Beecrownd\obj\Debug\net6.0\refint\Beecrownd.dll
+C:\Users\Home\OneDrive\Área de Trabalho\Beecrownd\Beecrownd\obj\Debug\net6.0\Beecrownd.pdb
+C:\Users\Home\OneDrive\Área de Trabalho\Beecrownd\Beecrownd\obj\Debug\net6.0\Beecrownd.genruntimeconfig.cache
+C:\Users\Home\OneDrive\Área de Trabalho\Beecrownd\Beecrownd\obj\Debug\net6.0\ref\Beecrownd.dll
+E:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 02 (03_08_23)\Beecrownd\Beecrownd\bin\Debug\net6.0\Beecrownd.exe
+E:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 02 (03_08_23)\Beecrownd\Beecrownd\bin\Debug\net6.0\Beecrownd.deps.json
+E:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 02 (03_08_23)\Beecrownd\Beecrownd\bin\Debug\net6.0\Beecrownd.runtimeconfig.json
+E:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 02 (03_08_23)\Beecrownd\Beecrownd\bin\Debug\net6.0\Beecrownd.dll
+E:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 02 (03_08_23)\Beecrownd\Beecrownd\bin\Debug\net6.0\Beecrownd.pdb
+E:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 02 (03_08_23)\Beecrownd\Beecrownd\obj\Debug\net6.0\Beecrownd.csproj.AssemblyReference.cache
+E:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 02 (03_08_23)\Beecrownd\Beecrownd\obj\Debug\net6.0\Beecrownd.GeneratedMSBuildEditorConfig.editorconfig
+E:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 02 (03_08_23)\Beecrownd\Beecrownd\obj\Debug\net6.0\Beecrownd.AssemblyInfoInputs.cache
+E:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 02 (03_08_23)\Beecrownd\Beecrownd\obj\Debug\net6.0\Beecrownd.AssemblyInfo.cs
+E:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 02 (03_08_23)\Beecrownd\Beecrownd\obj\Debug\net6.0\Beecrownd.csproj.CoreCompileInputs.cache
+E:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 02 (03_08_23)\Beecrownd\Beecrownd\obj\Debug\net6.0\Beecrownd.dll
+E:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 02 (03_08_23)\Beecrownd\Beecrownd\obj\Debug\net6.0\refint\Beecrownd.dll
+E:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 02 (03_08_23)\Beecrownd\Beecrownd\obj\Debug\net6.0\Beecrownd.pdb
+E:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 02 (03_08_23)\Beecrownd\Beecrownd\obj\Debug\net6.0\Beecrownd.genruntimeconfig.cache
+E:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 02 (03_08_23)\Beecrownd\Beecrownd\obj\Debug\net6.0\ref\Beecrownd.dll

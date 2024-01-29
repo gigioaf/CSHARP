@@ -1,0 +1,15 @@
+E:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Prova 01\Prova 01\bin\Debug\net6.0\Prova 01.exe
+E:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Prova 01\Prova 01\bin\Debug\net6.0\Prova 01.deps.json
+E:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Prova 01\Prova 01\bin\Debug\net6.0\Prova 01.runtimeconfig.json
+E:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Prova 01\Prova 01\bin\Debug\net6.0\Prova 01.dll
+E:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Prova 01\Prova 01\bin\Debug\net6.0\Prova 01.pdb
+E:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Prova 01\Prova 01\obj\Debug\net6.0\Prova 01.csproj.AssemblyReference.cache
+E:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Prova 01\Prova 01\obj\Debug\net6.0\Prova 01.GeneratedMSBuildEditorConfig.editorconfig
+E:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Prova 01\Prova 01\obj\Debug\net6.0\Prova 01.AssemblyInfoInputs.cache
+E:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Prova 01\Prova 01\obj\Debug\net6.0\Prova 01.AssemblyInfo.cs
+E:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Prova 01\Prova 01\obj\Debug\net6.0\Prova 01.csproj.CoreCompileInputs.cache
+E:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Prova 01\Prova 01\obj\Debug\net6.0\Prova 01.dll
+E:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Prova 01\Prova 01\obj\Debug\net6.0\refint\Prova 01.dll
+E:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Prova 01\Prova 01\obj\Debug\net6.0\Prova 01.pdb
+E:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Prova 01\Prova 01\obj\Debug\net6.0\Prova 01.genruntimeconfig.cache
+E:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Prova 01\Prova 01\obj\Debug\net6.0\ref\Prova 01.dll

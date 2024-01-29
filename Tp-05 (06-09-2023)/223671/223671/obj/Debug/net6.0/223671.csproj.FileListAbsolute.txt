@@ -1,0 +1,15 @@
+C:\Users\Home\OneDrive\Área de Trabalho\223671\223671\obj\Debug\net6.0\223671.csproj.AssemblyReference.cache
+C:\Users\Home\OneDrive\Área de Trabalho\223671\223671\obj\Debug\net6.0\223671.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\OneDrive\Área de Trabalho\223671\223671\obj\Debug\net6.0\223671.AssemblyInfoInputs.cache
+C:\Users\Home\OneDrive\Área de Trabalho\223671\223671\obj\Debug\net6.0\223671.AssemblyInfo.cs
+C:\Users\Home\OneDrive\Área de Trabalho\223671\223671\obj\Debug\net6.0\223671.csproj.CoreCompileInputs.cache
+C:\Users\Home\OneDrive\Área de Trabalho\223671\223671\bin\Debug\net6.0\223671.exe
+C:\Users\Home\OneDrive\Área de Trabalho\223671\223671\bin\Debug\net6.0\223671.deps.json
+C:\Users\Home\OneDrive\Área de Trabalho\223671\223671\bin\Debug\net6.0\223671.runtimeconfig.json
+C:\Users\Home\OneDrive\Área de Trabalho\223671\223671\bin\Debug\net6.0\223671.dll
+C:\Users\Home\OneDrive\Área de Trabalho\223671\223671\bin\Debug\net6.0\223671.pdb
+C:\Users\Home\OneDrive\Área de Trabalho\223671\223671\obj\Debug\net6.0\223671.dll
+C:\Users\Home\OneDrive\Área de Trabalho\223671\223671\obj\Debug\net6.0\refint\223671.dll
+C:\Users\Home\OneDrive\Área de Trabalho\223671\223671\obj\Debug\net6.0\223671.pdb
+C:\Users\Home\OneDrive\Área de Trabalho\223671\223671\obj\Debug\net6.0\223671.genruntimeconfig.cache
+C:\Users\Home\OneDrive\Área de Trabalho\223671\223671\obj\Debug\net6.0\ref\223671.dll

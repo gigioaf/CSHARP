@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Aual 02 (16-08-23)/1.0.0": {
+        "runtime": {
+          "Aual 02 (16-08-23).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aual 02 (16-08-23)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

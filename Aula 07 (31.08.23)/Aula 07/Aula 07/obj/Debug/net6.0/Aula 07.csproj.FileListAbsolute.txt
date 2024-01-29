@@ -1,0 +1,15 @@
+D:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 07 (31.08.23)\Aula 07\Aula 07\bin\Debug\net6.0\Aula 07.exe
+D:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 07 (31.08.23)\Aula 07\Aula 07\bin\Debug\net6.0\Aula 07.deps.json
+D:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 07 (31.08.23)\Aula 07\Aula 07\bin\Debug\net6.0\Aula 07.runtimeconfig.json
+D:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 07 (31.08.23)\Aula 07\Aula 07\bin\Debug\net6.0\Aula 07.dll
+D:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 07 (31.08.23)\Aula 07\Aula 07\bin\Debug\net6.0\ref\Aula 07.dll
+D:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 07 (31.08.23)\Aula 07\Aula 07\bin\Debug\net6.0\Aula 07.pdb
+D:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 07 (31.08.23)\Aula 07\Aula 07\obj\Debug\net6.0\Aula 07.csproj.AssemblyReference.cache
+D:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 07 (31.08.23)\Aula 07\Aula 07\obj\Debug\net6.0\Aula 07.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 07 (31.08.23)\Aula 07\Aula 07\obj\Debug\net6.0\Aula 07.AssemblyInfoInputs.cache
+D:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 07 (31.08.23)\Aula 07\Aula 07\obj\Debug\net6.0\Aula 07.AssemblyInfo.cs
+D:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 07 (31.08.23)\Aula 07\Aula 07\obj\Debug\net6.0\Aula 07.csproj.CoreCompileInputs.cache
+D:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 07 (31.08.23)\Aula 07\Aula 07\obj\Debug\net6.0\Aula 07.dll
+D:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 07 (31.08.23)\Aula 07\Aula 07\obj\Debug\net6.0\ref\Aula 07.dll
+D:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 07 (31.08.23)\Aula 07\Aula 07\obj\Debug\net6.0\Aula 07.pdb
+D:\Sistemas de Informação\LA\PROGRAMAÇÃO ORIENTADA A OBJETOS\Aula 07 (31.08.23)\Aula 07\Aula 07\obj\Debug\net6.0\Aula 07.genruntimeconfig.cache
